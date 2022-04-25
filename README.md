@@ -17,7 +17,7 @@
 - [x] sa-token 实现登录认证账户鉴权
 
 ## 数据库文件
-[login.sql](https://gitee.com/Hors/login-demo/static-files/login.sql)
+[login.sql](https://gitee.com/Hors/login-demo/blob/master/static-files/login.sql)
 ## 效果展示
 ![](static-files/01.png)
 ![](static-files/02.png)
